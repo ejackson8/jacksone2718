@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jacksone2718
+- 👋 Hi, I’m E. Jackson.
 - 👀 I’m interested in Data and Product.
 - 🌱 I’m currently learning SQL and JavaScript. I've dabbled in Python...
-- 🌱 I’ve made many websites in HTML and CSS.
+- 🌱 I’ve hand-coded many websites in HTML and CSS.
 <!---//- 💞️ I’m looking to collaborate on ...
 //- 📫 How to reach me ...
 
